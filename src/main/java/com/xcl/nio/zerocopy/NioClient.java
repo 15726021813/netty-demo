@@ -11,7 +11,6 @@ import java.nio.channels.SocketChannel;
 public class NioClient {
 
     public static void main(String[] args) throws IOException {
-
         SocketChannel open = SocketChannel.open();
     }
 }
